@@ -69,5 +69,6 @@ const Word: FC<WordProps> = ({ children, progress, range }) => {
     </span>
   );
 };
+TextRevealByWord.displayName = "Confetti";
 
 export default TextRevealByWord;
