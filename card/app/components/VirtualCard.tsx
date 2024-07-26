@@ -14,6 +14,7 @@ import tec from '../../public/tec.jpeg';
 import snow from '../../public/snow.jpeg';
 import parrot from '../../public/parrot.jpeg';
 import bici from '../../public/bici.jpeg';
+import hug from '../../public/hug.jpeg';
 
 import { ConfettiDemo } from './ConfettiDemo';
 
@@ -32,11 +33,10 @@ const imageUrls = [
   small,
   carro,
   bici,
-  
   tec,
   snow,
   navidad,
-  parrot,
+  hug,
   cumple
 ];
 
