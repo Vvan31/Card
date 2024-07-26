@@ -8,13 +8,17 @@ import styles from './VirtualCard.module.css';
 import Image from 'next/image';
 import carro from '../../public/carro.jpeg';
 import cumple from '../../public/cumple.jpeg';
-import navidad from '../../public/navidad.jpeg';
-import small from '../../public/small.jpeg';
-import tec from '../../public/tec.jpeg';
-import snow from '../../public/snow.jpeg';
-import parrot from '../../public/parrot.jpeg';
-import bici from '../../public/bici.jpeg';
-import hug from '../../public/hug.jpeg';
+import vakku from '../../public/vakku.jpeg';
+import christmas from '../../public/christmas.jpeg';
+import ubcdad from '../../public/ubcdad.jpeg';
+import joice from '../../public/joice.jpeg';
+import pelona from '../../public/pelona.jpeg';
+import small2 from '../../public/small2.jpeg';
+import umma from '../../public/umma2.jpeg';
+import hug2 from '../../public/hug2.jpeg';
+import ellu from '../../public/ellu.jpeg';
+import achu from '../../public/achu.jpeg';
+import hBD from '../../public/hBD.jpeg';
 
 import { ConfettiDemo } from './ConfettiDemo';
 
@@ -34,14 +38,17 @@ const textContent = [
 ];
 
 const imageUrls = [
-  small,
-  carro,
-  bici,
-  tec,
-  snow,
-  navidad,
-  hug,
-  cumple
+  christmas,
+  hug2,
+  pelona,
+  small2,
+  ubcdad,
+  achu,
+  joice,
+  ellu,
+  vakku,
+  umma,
+  hBD,
 ];
 
 

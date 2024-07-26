@@ -13,9 +13,9 @@ const ScrollSubtitle = () => {
       transition={{ duration: 0.8, ease: 'easeOut' }}
     >
       <h2 className="text-xl md:text-4xl font-bold text-gray-800 bg-clip-text mb-3 md:mb-8">
-        Carta a Papá
+        Happy Birthday, Appa!
       </h2>
-      <p className="text-sm md:text-lg text-gray-700">Haz scroll para ver la carta</p>
+      <p className="text-sm md:text-lg text-gray-700">Scroll to see your card</p>
       <motion.div
         initial={{ y: 0 }}
         animate={{ y: 20 }}
