@@ -1,5 +1,4 @@
 
-
 import { ConfettiButton } from "@/components/magicui/confetti";
 
 export function ConfettiDemo() {
@@ -9,3 +8,7 @@ export function ConfettiDemo() {
     </div>
   );
 }
+
+  
+
+ConfettiDemo.displayName = 'ConfettiDemo';
