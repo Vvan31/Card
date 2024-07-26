@@ -36,5 +36,5 @@ const ScrollUpButton = () => {
     </button>
   );
 };
-
+ScrollUpButton.displayName = 'ScrollUpButton';
 export default ScrollUpButton;

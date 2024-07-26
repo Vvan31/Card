@@ -56,5 +56,5 @@ const VirtualCard = () => {
     </div>
   );
 };
-
+VirtualCard.displayName = 'VirtualCard';
 export default VirtualCard;

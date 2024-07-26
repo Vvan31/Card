@@ -34,5 +34,5 @@ const ScrollSubtitle = () => {
     </motion.div>
   );
 };
-
+ScrollSubtitle.displayName = 'ScrollSubtitle';
 export default ScrollSubtitle;
