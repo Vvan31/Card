@@ -19,14 +19,18 @@ import hug from '../../public/hug.jpeg';
 import { ConfettiDemo } from './ConfettiDemo';
 
 const textContent = [
-  "Siempre voy a apreciar la invaluable experiencia de tenerte a mi lado mientras crecía y descubría el mundo por primera vez, solo para descubrir, en cada nueva experiencia, lo asombroso que eres y lo afortunadas que somos de tenerte.",
-  "Mi parte favorita de mi trabajo es poder estar contigo.",
-  "Puedo ver cómo eres un asombroso líder que ha cambiado la vida de mucha gente. Inspiras a todos los que están a tu alrededor y contagias tu determinación y pasión.",
-  "Me enorgullece mucho ser tu hija y no hay mejor cumplido que pueda recibir que “Te pareces a tu papá”.",
-  "Esto todavía no se acaba. La vida es difícil, pero sé que siempre puedo contar contigo y quiero que sepas que tú puedes contar conmigo.",
-  "Hoy no pudimos ir a abrazarte, pero te mandamos mucho, mucho... mucho amor.",
-  "Mientras, hay que contar nuestras bendiciones pero, sobre todo, disfrutarlas. Así que disfruta mucho tu día, tus regalos y tu familia. Te amo.",
-  "Feliz cumpleaños, papá."
+  "Hi appa :)",
+  "You are the shining star of our lives. We are so thankful to have you as our father.",
+  "I miss you every day. You taught me to be strong and brave enough to reach for success and to keep working hard.",
+  "Amma, Chechi, vakkunni and I love you very much. And we hope you find all the happiness in the world because you deserve it and more.",
+  "You’re a great leader and a great dad. You’re a ubc dad, a Berkeley dad, and a Nagoya dad. We are so proud of you.",
+  "May god bless you with a long healthy life with many more successes. Love, Achu.",
+
+  "Happy Birthday to my dearest, who I met 30 years ago. My caring and understanding life partner. Words are not enough to express my love and appreciation for you. I love you to the moon and back. With endless love, Joice.",
+  "Happy Birthday Appa. I love you so much. Thank you for being there for me in every step of my life. Thank you for being an incredible father and role model. Love Ellu.",
+  "Happy Birthday Appa. I love you. You’ve always been so cool, dedicating time to teaching me so much about everything. Thank you so much for coming to visit me in Nagoya every now and then. Once again, Happy Birthday, Appa. Love, Vakhan",
+  "Umma",
+  "Happy birthday appa. We love you!!!",
 ];
 
 const imageUrls = [
